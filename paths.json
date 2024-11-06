@@ -1,7 +1,7 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/",
-    "/content/aem-boilerplate/configuration:/.helix/config.json",
-    "/content/aem-boilerplate/metadata:/metadata.json"
+    "/content/fc-vass/:/",
+    "/content/fc-vass/configuration:/.helix/config.json",
+    "/content/fc-vass/metadata:/metadata.json"
   ]
 }
